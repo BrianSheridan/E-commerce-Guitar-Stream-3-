@@ -1,7 +1,7 @@
 api==0.0.3
 arrow==0.10.0
 boto==2.48.0
-certifi==2017.4.17
+certifi==2022.12.7
 chardet==3.0.4
 disqus==0.0.4
 dj-database-url==0.4.2
